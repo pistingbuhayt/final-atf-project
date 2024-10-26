@@ -1,0 +1,3 @@
+0 DFA
+1 NFA
+2 RANDOM
